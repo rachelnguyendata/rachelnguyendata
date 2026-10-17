@@ -28,9 +28,9 @@ Forecast 525 days of price movement for three FTSE 100 companies using the yfina
 
 ---
 
-### [Supply Chain Simulation and Optimisation | Python, Power BI](https://github.com/your-username/project-3)
+### [Brexit and UK Seaport Freight | Python, Power BI](https://github.com/rachelnguyendata/ANALYSING-THE-IMPACT-OF-BREXIT-ON-UK-MARITIME-TRANSPORT)
 
-Short description: data cleaning, analysis or modeling steps, and the main findings.
+Difference-in-differences analysis of Brexit's effect on Ro-Ro and Lo-Lo freight at UK seaports, with Prophet and ARIMA forecasts to 2026. Python and Power BI, built on open UK Department for Transport data.
 
 ---
 ### [Supply Chain Simulation and Optimisation | Arena Simulation](https://github.com/rachelnguyendata/supply-chain-and-optimisation)
