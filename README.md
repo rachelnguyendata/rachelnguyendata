@@ -1,7 +1,6 @@
 # 👩‍💻 Thi Thanh Ngan Nguyen
 
-**Data Analyst**  
-📍 Leeds, United Kingdom | 📧 ngan203133@gmail.com | 🔗 [LinkedIn] https://www.linkedin.com/in/ngandata/?isSelfProfile=true 
+**📍 Leeds, United Kingdom | 📧 ngan203133@gmail.com | 🔗 [LinkedIn] https://www.linkedin.com/in/ngandata/?isSelfProfile=true** 
 ---
 
 ## 👋 About Me
