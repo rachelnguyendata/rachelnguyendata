@@ -16,7 +16,7 @@ Open to data analyst roles in the UK.
 
 ## 📊 Featured Projects
 
-### [Hotel Booking Analysis  | Microsoft SQL Server, Tableau ](https://github.com/rachelnguyendata/Hotel-Booking-Analysis))
+### [Hotel Booking Analysis  | Microsoft SQL Server, Tableau ](https://github.com/rachelnguyendata/Hotel-Booking-Analysis)
 
 Ten years of transactional records, more than 66,000 entries across 27 markets. Removed duplicates with a CTE and ROW_NUMBER, applied validation checks, then built a dashboard around KPI tiles, a geographic map and bar charts. Testing a promotion across customer segments found almost identical take-up at 50.25% against 49.75%, which removed the case for segmented discounting.
 
