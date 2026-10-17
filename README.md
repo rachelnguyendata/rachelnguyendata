@@ -2,28 +2,33 @@
 
 📍 Leeds, United Kingdom | 📧 ngan203133@gmail.com | 🔗 [LinkedIn] https://www.linkedin.com/in/ngandata/?isSelfProfile=true
 
-
 ## 👋 About Me
 
-Transitioning into **Data Analytics** from a background in **Your Field**, I bring **X years of experience** in **Your Role** to support data-driven decision-making. I enjoy turning messy data into clear insights and dashboards that help businesses grow.
+Data analyst based in Leeds, finishing an MSc in Business Intelligence and Analytics at the University of Huddersfield with an A in every graded module.
+
+The projects here follow a whole problem rather than a single step. Each one starts with data that is not fit to report from, moves through SQL or Python to get it into shape, and ends with something a non-specialist can act on.
+
+Before analytics I tested software at AvePoint, trained in a commercial bank, and spent a year as a teaching assistant comparing student results across cohorts. That last role taught me the part I still care most about, which is that analysis only counts when someone acts on it.
+
+Open to data analyst roles in the UK.
 
 ---
 
 ## 📊 Featured Projects
 
-### [Project 1 Title | SQL, BigQuery](https://github.com/your-username/project-1)
+### [Hotel Booking Analysis  | Microsoft SQL Server, Tableau ](https://github.com/rachelnguyendata/Hotel-Booking-Analysis))
 
-Short description: what dataset you used, what questions you answered, and the key insights (e.g. user behavior, revenue trends, cohort analysis).
-
----
-
-### [Project 2 Title | Power BI](https://github.com/your-username/project-2)
-
-Short description: what the dashboard tracks, who it helps, and the business impact.
+Ten years of transactional records, more than 66,000 entries across 27 markets. Removed duplicates with a CTE and ROW_NUMBER, applied validation checks, then built a dashboard around KPI tiles, a geographic map and bar charts. Testing a promotion across customer segments found almost identical take-up at 50.25% against 49.75%, which removed the case for segmented discounting.
 
 ---
 
-### [Project 3 Title | Python](https://github.com/your-username/project-3)
+### [Stock Market and Fundamental Analysis | Python, Excel ](https://github.com/rachelnguyendata/Stock-Market-and-Fundamental-Analysis)
+
+Forecast 525 days of price movement for three FTSE 100 companies using the yfinance API, comparing single, double and triple exponential smoothing on MAE, MSE and RMSE. A multiple OLS regression with VIF and backward elimination removed the market index at p = 0.924 and left two comparables explaining 60% of the movement.
+
+---
+
+### [Supply Chain Simulation and Optimisation | Python](https://github.com/your-username/project-3)
 
 Short description: data cleaning, analysis or modeling steps, and the main findings.
 
@@ -31,27 +36,19 @@ Short description: data cleaning, analysis or modeling steps, and the main findi
 
 ## 🛠️ Skills
 
-- **Data Analysis:** SQL (BigQuery, MySQL), Python (Pandas, NumPy), Excel
-- **Visualization:** Power BI (DAX, Power Query), Tableau, Looker Studio
-- **Business:** Reporting, KPI tracking, Stakeholder communication
-
----
-
-## 💼 Experience
-
-- **Job Title** – Company Name *(MM/YYYY – MM/YYYY)*
-- **Job Title** – Company Name *(MM/YYYY – MM/YYYY)*
-
+- **Data Analysis:** Microsoft SQL Server (ETL, joins, subqueries, CTEs, window functions), Python (pandas, NumPy, Matplotlib, seaborn, scikit-learn, statsmodels, yfinance), Excel (PivotTables, VLOOKUP, HLOOKUP, financial modelling)
+- **Visualization:** Power BI, Tableau
+- **Statistics and Modelling**: OLS regression, hypothesis testing, multicollinearity testing (VIF), backward elimination, exponential smoothing (SES/DES/TES), forecast accuracy testing (MAE/MSE/RMSE), structural equation modelling (PLS-SEM)
 ---
 
 ## 🎓 Education & Certificates
 
-- **Degree / Major** – University Name
-- **Certificate Name** – Issuer (Year)
+- **Master of Science in Business Intelligence and Analytics** – University of Huddersfield
+- **Bachelor of Business Administration** – Danang University of Economics
 
 ---
 
 ## 📫 Contact
 
 Feel free to reach out for collaboration or opportunities:  
-📧 [youremail@gmail.com](mailto:youremail@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+📧 ngan203133@gmail.com · 🔗 [LinkedIn]https://www.linkedin.com/in/ngandata/?isSelfProfile=true
