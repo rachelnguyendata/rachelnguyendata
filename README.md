@@ -28,12 +28,16 @@ Forecast 525 days of price movement for three FTSE 100 companies using the yfina
 
 ---
 
-### [Supply Chain Simulation and Optimisation | Python](https://github.com/your-username/project-3)
+### [Supply Chain Simulation and Optimisation | Python, Power BI](https://github.com/your-username/project-3)
 
 Short description: data cleaning, analysis or modeling steps, and the main findings.
 
 ---
+### [Supply Chain Simulation and Optimisation | Arena Simulation](https://github.com/rachelnguyendata/supply-chain-and-optimisation)
 
+Modelled a four-stage operation with published statistical distributions over three replications, which located a 248-hour queue at one stage against 0.38 hours elsewhere. Defined the measures management should track, then tested a redesign against the same measures and confirmed it cleared the queue.
+
+---
 ## 🛠️ Skills
 
 - **Data Analysis:** Microsoft SQL Server (ETL, joins, subqueries, CTEs, window functions), Python (pandas, NumPy, Matplotlib, seaborn, scikit-learn, statsmodels, yfinance), Excel (PivotTables, VLOOKUP, HLOOKUP, financial modelling)
