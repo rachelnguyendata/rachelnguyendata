@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-Data analyst based in Leeds, finishing an MSc in Business Intelligence and Analytics at the University of Huddersfield with an A in every graded module.
+Data analyst based in Leeds, finishing an MSc in Business Intelligence and Analytics at the University of Huddersfield with Best performing postgraduate student award.
 
 The projects here follow a whole problem rather than a single step. Each one starts with data that is not fit to report from, moves through SQL or Python to get it into shape, and ends with something a non-specialist can act on.
 
@@ -55,4 +55,5 @@ Modelled a four-stage operation with published statistical distributions over th
 ## 📫 Contact
 
 Feel free to reach out for collaboration or opportunities:  
-📧 ngan203133@gmail.com · 🔗 [LinkedIn]https://www.linkedin.com/in/ngandata/?isSelfProfile=true
+📧 ngan203133@gmail.com 
+🔗 [LinkedIn]https://www.linkedin.com/in/ngandata/?isSelfProfile=true
